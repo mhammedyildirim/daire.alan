@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\c# denemeler\daire.alan\daire.alan\obj\Debug\daire.alan.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\c# denemeler\daire.alan\daire.alan\bin\Debug\daire.alan.exe.config
+C:\Users\muhammed\Desktop\c# denemeler\daire.alan\daire.alan\bin\Debug\daire.alan.exe
+C:\Users\muhammed\Desktop\c# denemeler\daire.alan\daire.alan\bin\Debug\daire.alan.pdb
+C:\Users\muhammed\Desktop\c# denemeler\daire.alan\daire.alan\obj\Debug\daire.alan.exe
+C:\Users\muhammed\Desktop\c# denemeler\daire.alan\daire.alan\obj\Debug\daire.alan.pdb
